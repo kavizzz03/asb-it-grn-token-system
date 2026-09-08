@@ -16,6 +16,7 @@ if (empty($assignedTabs)) {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ASB Smart Token System - Executive Dashboard</title>
+     <link rel="icon" type="image/png" href="logo.png">
     
     <!-- Tailwind CSS CDN -->
     <script src="https://cdn.tailwindcss.com"></script>

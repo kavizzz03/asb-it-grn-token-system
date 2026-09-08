@@ -51,6 +51,7 @@ $tabs = $pdo->query("SELECT * FROM tabs ORDER BY sort_order ASC, tab_id ASC")->f
 <head>
     <meta charset="UTF-8">
     <title>Tab Administration - Token System</title>
+     <link rel="icon" type="image/png" href="logo.png">
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>

@@ -65,7 +65,7 @@ try {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ASB Group | Token Ingestion & Receiving Center</title>
-    
+     <link rel="icon" type="image/png" href="logo.png">
     <!-- Google Fonts: Plus Jakarta Sans & JetBrains Mono -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -199,7 +199,7 @@ try {
             <div class="flex items-center gap-2.5 w-full md:w-auto justify-end flex-wrap">
                 
                 <!-- Navigation Button: Back to Kiosk -->
-                <a href="index.php" 
+                <a href="create_token.php" 
                    title="Go to Return Token Kiosk"
                    class="px-3.5 py-1.5 rounded-xl text-xs font-bold border border-red-500/30 bg-red-500/10 hover:bg-red-500/20 hover:border-red-500/50 text-red-300 hover:text-white transition-all flex items-center gap-1.5 shadow-sm active:scale-95 cursor-pointer">
                     <i class="fa-solid fa-plus-circle text-red-400"></i>

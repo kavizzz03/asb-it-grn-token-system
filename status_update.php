@@ -182,6 +182,7 @@ if (isset($_GET['msg'])) {
     <meta charset="UTF-8">
     <title>Token Status & Handler Management</title>
     <script src="https://cdn.tailwindcss.com"></script>
+     <link rel="icon" type="image/png" href="logo.png">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
         @media print {
